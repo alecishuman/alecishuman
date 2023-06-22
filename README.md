@@ -6,9 +6,9 @@ I am a budding software engineer and machine learning/AI engineer currently look
 
 ## Past projects & respository (if available):
 - Began creating a social media web app using ReactJS and firebase for Kesera. (GitHub not available)
-- Build from scratch convolution neural network model for classifying handwritten math & scientific symbols. 
+- Build from scratch convolution neural network model for classifying handwritten math & scientific symbols: https://github.com/alecishuman/Handwritten-Math-Symbols  
 - Analyzed various existing network routing algorithms such as Dijkstra and Q-Learning algorithms. Coded and tested these algorithms on different network routing paths.
-- Conducted topic modelling analysis on various different books using Latent Dirichlet Allocation. 
+- Conducted topic modelling analysis on various different books using Latent Dirichlet Allocation https://github.com/alecishuman/Topic_Modelling_LDA. 
 - Identifying locations in Marianne Moore's poems: https://github.com/alecishuman/LDA-Topic-Modelling-Model
 
 <!--
