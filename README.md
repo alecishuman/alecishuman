@@ -5,6 +5,7 @@ I am a budding software engineer and machine learning/AI engineer currently look
 📫 How to reach me: aasitu@gmail.com
 
 ## Past projects & respository (if available):
+- Full Stack Developer for PipeIQ (React (Next), Typescript, Tailwind, Prisma) https://pipeiq-app.vercel.app/ 
 - Began creating a social media web app using ReactJS and firebase for Kesera. (GitHub not available)
 - Build from scratch convolution neural network model for classifying handwritten math & scientific symbols: https://github.com/alecishuman/Handwritten-Math-Symbols (includes paper) 
 - Analyzed various existing network routing algorithms such as Dijkstra and Q-Learning algorithms. Coded and tested these algorithms on different network routing paths.
