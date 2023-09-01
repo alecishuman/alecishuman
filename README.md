@@ -1,8 +1,8 @@
 ### Hi there 👋 This is @alecishuman (Alec Situ).
 I am a budding software engineer and machine learning/AI engineer currently looking for internships/jobs.
-🔭 I’m currently working on my ReactJS skills
-👯 I’m looking to collaborate on projects, startups, etc.
-📫 How to reach me: aasitu@gmail.com
+- 🔭 I’m currently working on my ReactJS skills
+- 👯 I’m looking to collaborate on projects, startups, etc.
+- 📫 How to reach me: aasitu@gmail.com
 
 ## Past projects & respository (if available):
 - Full Stack Developer for PipeIQ (React (Next), Typescript, Tailwind, Prisma). Developed landing page for them. https://pipeiq.ai/chat-gpt-enterprise
