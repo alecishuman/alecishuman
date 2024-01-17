@@ -8,7 +8,7 @@ I am a budding software engineer and machine learning/AI engineer currently look
 - Full Stack Developer for PipeIQ (React (Next), Typescript, Tailwind, Prisma). Developed landing page for them. https://pipeiq.ai/chat-gpt-enterprise
 - Began creating a social media web app using ReactJS and firebase for Kesera. (GitHub not available)
 - Build from scratch convolution neural network model for classifying handwritten math & scientific symbols: https://github.com/alecishuman/Handwritten-Math-Symbols (includes paper) 
-- Analyzed various existing network routing algorithms such as Dijkstra and Q-Learning algorithms. Coded and tested these algorithms on different network routing paths. https://github.com/alecishuman/network-routing-algorithms
+- Analyzed various existing network routing algorithms such as Dijkstra and Q-Learning algorithms. Coded and tested these algorithms on different network routing paths. https://github.com/alecishuman/network-routing-algorithms (paper)
 - Conducted topic modelling analysis on various different books using Latent Dirichlet Allocation https://github.com/alecishuman/Topic_Modelling_LDA (includes paper)
 - Identifying locations in Marianne Moore's poems: https://github.com/alecishuman/LDA-Topic-Modelling-Model
 
