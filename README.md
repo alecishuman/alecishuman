@@ -5,6 +5,7 @@ I am a budding software engineer and machine learning/AI engineer currently look
 - 📫 How to reach me: aasitu@gmail.com
 
 ## Past projects & respository (if available):
+- JUST PUBLISHED MY PERSONAL PORTFOLIO WEBSITE. This is still in its early stages, so there are many features that need to be improved upon. Currently, it only works on laptop or larger devices, but it will soon be adaptive to all devices. This website was built with React, Next, Node, Tailwind, and EmailJS. Hope you enjoy (Link: https://alecishuman.github.io/my-website/, Repo: https://github.com/alecishuman/my-website) 
 - Full Stack Developer for PipeIQ (React (Next), Typescript, Tailwind, Prisma). Developed landing page for them. https://pipeiq.ai/chat-gpt-enterprise
 - Began creating a social media web app using ReactJS and firebase for Kesera. (GitHub not available)
 - Build from scratch convolution neural network model for classifying handwritten math & scientific symbols: https://github.com/alecishuman/Handwritten-Math-Symbols (includes paper) 
