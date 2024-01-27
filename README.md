@@ -1,6 +1,6 @@
 ### Hi there 👋 This is @alecishuman (Alec Situ).
 I am a budding software engineer and machine learning/AI engineer currently looking for internships/jobs.
-- 🔭 I’m currently working on my ReactJS skills
+- 🔭 I’m currently working on my fullstack/backend development skills
 - 👯 I’m looking to collaborate on projects, startups, etc.
 - 📫 How to reach me: aasitu@gmail.com
 
