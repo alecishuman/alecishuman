@@ -1,5 +1,5 @@
 ### Hi there 👋 This is @alecishuman (Alec Situ).
-I am a budding software engineer and machine learning/AI engineer currently looking for internships/jobs.
+I am a budding software engineer and machine learning/AI engineer currently looking for internships/jobs (Currently at SAP).
 - ⚡ I'm particularly skilled at React/frontend development and machine learning technologies.
 - 🔭 I’m currently working on my fullstack/backend development skills.
 - 👯 I’m looking for internships and opportunities to collaborate on projects, startups, etc.
@@ -8,7 +8,7 @@ I am a budding software engineer and machine learning/AI engineer currently look
 ## Past projects & respository (if available):
 - JUST PUBLISHED MY PERSONAL PORTFOLIO WEBSITE. This is still in its early stages, so there are many features that need to be improved upon. Currently, it only works on laptop or larger devices, but it will soon be adaptive to all devices. This website was built with React, Next, Node, Tailwind, and EmailJS. Hope you enjoy (feel free to give me feedback). (Link: https://alecishuman.github.io/my-website/, Repo: https://github.com/alecishuman/my-website) 
 - Full Stack Developer for PipeIQ (React (Next), Typescript, Tailwind, Prisma). Developed landing page for them. https://pipeiq.ai/chat-gpt-enterprise
-- Began creating a social media web app using ReactJS and firebase for Kesera. (GitHub not available)
+- Building an improve search algorithm for UBC (my university's website) https://github.com/alecishuman/ubc-engine
 - Build from scratch convolution neural network model for classifying handwritten math & scientific symbols: https://github.com/alecishuman/Handwritten-Math-Symbols (includes paper) 
 - Analyzed various existing network routing algorithms such as Dijkstra and Q-Learning algorithms. Coded and tested these algorithms on different network routing paths. https://github.com/alecishuman/network-routing-algorithms (paper)
 - Conducted topic modelling analysis on various different books using Latent Dirichlet Allocation https://github.com/alecishuman/Topic_Modelling_LDA (includes paper)
