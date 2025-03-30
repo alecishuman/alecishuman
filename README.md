@@ -1,5 +1,5 @@
 ### Hi there 👋 This is @alecishuman (Alec Situ).
-I am a budding software engineer and machine learning/AI engineer currently looking for internships/jobs (Currently at HubSpot).
+I am a budding software engineer and machine learning/AI engineer (currently at HubSpot).
 - ⚡ I'm particularly skilled at React/frontend development and machine learning technologies.
 - 🔭 I’m currently working on my fullstack/backend development skills.
 - 👯 I’m looking for internships and opportunities to collaborate on projects, startups, etc.
