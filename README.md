@@ -1,6 +1,6 @@
 ### Hi there 👋 This is @alecishuman (Alec Situ).
 I am a budding software engineer and machine learning/AI engineer (incoming @ Meta).
-- ⚡ I'm particularly skilled at React/frontend development and machine learning technologies.
+- ⚡ I'm particularly skilled at fullstack web development and machine learning technologies.
 - 🔭 I’m currently working on my backend development skills.
 - 👯 I’m looking for internships and opportunities to collaborate on projects, startups, etc.
 - 📫 How to reach me: aasitu@gmail.com
